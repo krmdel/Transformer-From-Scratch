@@ -1,6 +1,6 @@
 # Transformer Model Implementation
 
-A comprehensive implementation of a transformer model using PyTorch for language translation tasks. This repository includes scripts for configuration setup, dataset preparation, model architecture, tokenization, and training. I followed and re-implemented the below tutorial, highly recommend to check it out:
+A comprehensive implementation of a transformer model using PyTorch for language translation tasks. This repository includes scripts for configuration setup, dataset preparation, model architecture, tokenization, and training. I followed and re-implemented the below tutorial, highly recommend checking it out:
 
 https://youtu.be/ISNdQcPhsts?si=SiHKhcwJIsDb8-BR
 
