@@ -26,7 +26,7 @@ pip install torch transformers datasets tokenizers tensorboard
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/krm-del/Transformer-From-Scratch.git
+git clone https://github.com/krmdel/Transformer-From-Scratch.git
 cd Transformer-From-Scratch
 ```
 
