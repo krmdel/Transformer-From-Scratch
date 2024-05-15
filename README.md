@@ -13,6 +13,8 @@ https://youtu.be/ISNdQcPhsts?si=SiHKhcwJIsDb8-BR
 - Validation with various metrics.
 - I also added my notes for more explanatory visual structures how words are converted into tokens and fed through encoder/decoder blocks, how attention score is calculated, etc.
 
+![Uploading Transformers.png…]()
+
 ## Requirements
 - Python 3.x
 - Libraries: `torch`, `transformers`, `datasets`, `tokenizers`, `tensorboard`
